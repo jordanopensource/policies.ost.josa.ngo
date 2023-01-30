@@ -1,0 +1,51 @@
+# {POLICY_ID} - {POLICY_NAME}
+
+> This document was last modified on {docsify-updated}
+
+## Objectives
+
+The purpose of this on-boarding policy is to ensure the safety of personnel and the organization’s assets  in case of staff onboarding or off-boarding.
+This policy defines the procedures rules, facilities, and authorities for New staff or members, Volunteers, and Previous staff or members.
+
+This policy aims to:
+
+- Ensure all employees and contracted individuals are effectively introduced to their new positions and the relevant policies, systems, and processes of the organization.
+
+## Scope
+
+This policy applies to:
+
+- new employees
+- any external contractors
+
+## Conditions
+
+?> `C1P1.C1` - The IT officer and ethical committee are responsible to assign an on-boarding mentor to the new employee or contracted individual.
+
+?> `C1P1.C2` - The on-boarding program is shared with the employee or contracted individuals as each one is supposed to learn and follow security guidelines.
+
+?> `C1P1.C3` - The mentor should notify the IT officer and ethical committee of the employee's device selection and give a proper introduction to the BYOD policy (where appropriate).
+
+?> `C1P1.C4` - The mentor is responsible for collecting information that will help the IT officer prep the employee or contracted individual’s IT prep including but not limited to (name, contact details, title, software needed for the job, and corporate accounts).
+
+?> `C1P1.C5` - The IT officer should determine which software, tools, and access rights new hires need including but not limited to( company email, internal messaging, productivity tools, etc.).
+
+?> `C1P1.C6` - If necessary, the new hires should have scheduled training on security policies, best practices when using office equipment, and productivity tips for commonly used tools.
+
+?> `C1P1.C7` - The information security officer will be responsible for monitoring the implementation of the On/Off-boarding Policy and its regular review.
+
+?> `C1P1.C8` - All security incidents or near-incidents should be reported by the employee, the contracted individual, or their manager to the officer and the ethical committee.
+
+## Compliance Rules
+
+- `C2P1.CR1` - Compliance Measurement, the InfoSec team will verify compliance to this policy through various methods, including but not limited to, periodic check-ups and internal audits, and feedback.
+
+- `C2P1.CR2` - Exceptions, any exception to the policy must be approved by the ethical committee or the board in advance.
+
+- `C2P1.CR3` - Non-Compliance, an employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+## Related Policies
+
+- `C2P2` - [BYOD Policy]()
+- `C6P3` - [Archiving Policy]()
+- `C6P4` - [Data Retention Policy]()

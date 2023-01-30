@@ -20,12 +20,11 @@ Every `Policy` consists of four different sections:
 - `Compliance Rules` - list of responsibilities for compliance and actions to be taken in the event of noncompliance.
 
 > **Free use disclaimer**
->
 > This policy was created by the [Jordan Open Source Association (JOSA)](https://josa.ngo) for the Internet community.  
 > All or parts of this framework can be freely used for your organization.  
 > There is no prior approval required.
 
-?> **Looking to contribute?** Read the [contribution guide](/contribution.md).
+?> **Looking to contribute?** Read the contribution guide.
 
 ---------------------------------------
 
@@ -70,11 +69,62 @@ Every `Complience Rule` is denoted as `CXPY.CRZ` where:
 
 # Policy Categories
 
-- [C1 - Behavioral Security](/categories/behavioral-security/)
-- [C2 - Physical Security](/categories/physical-security/)
-- [C3 - Account Security](/categories/account-security/)
-- [C4 - Software Security](categories/software-security/)
-- [C5 - Communication Security](categories/communication-security/)
-- [C6 - Data Security](categories/data-security/)
-- [C7 - Crises Operation](categories/crises-operation/)
+## [C1 - Behavioral Security](/categories/behavioral-security/)
 
+- `C1P1` - [On-Boarding Policy](/categories/behavioral-security/C1P1.md)
+- `C1P2` - [Off-Boarding Policy](/categories/behavioral-security/C1P1.md)
+- `C1P3` - [Threat & Harassment Policy]()
+- `C1P4` - [Social Engineering Awareness Policy]()
+- `C1P5` - [Acceptable Use Policy]()
+
+## [C2 - Physical Security](/categories/physical-security/)
+
+- `C2P1` - [Travel Policy](/categories/physical-security/C2P1.md)
+- `C2P2` - [BYOD Policy]()
+- `C2P3` - [Clean Disk Policy]()
+- `C2P4` - [Removable Media Policy]()
+
+## [C3 - Account Security](/categories/account-security/)
+
+- **Account Management**
+  - `C3P1` - [Account Security Question Policy]()
+  - `C3P2` - [Account Recovery Policy]()
+  - `C3P3` - [Two-Factor Authentication Policy]()
+- **Passwords**
+  - `C3P4` - [Password Construction Policy]()
+  - `C3P5` - [Password Recycling Policy]()
+  - `C3P6` - [Password Managers Policy]()
+- **Social Media**
+  - `C3P7` - [Social Media Account Verification Policy]()
+  - `C3P8` - [Social Media Authorities Policy]()
+
+## [C4 - Software Security](categories/software-security/)
+
+- `C3P1` - [Browsers Policy]()
+- `C3P1` - [Antivirus Policy]()
+- `C3P1` - [VPN Policy]()
+- `C3P1` - [Software Installation Policy]()
+
+## [C5 - Communication Security](categories/communication-security/)
+
+- **General**
+  - `C5P1` - [Secure Communication Policy]()
+- **Email**
+  - `C5P1` - [Email Policy]()
+  - `C5P1` - [Email Retention Policy]()
+
+## [C6 - Data Security](categories/data-security/)
+
+- `C6P1` - [Data Accessibility Policy]()
+- `C6P2` - [Database Access Policy]()
+- `C6P3` - [Archiving Policy]()
+- `C6P4` - [Data Retention Policy]()
+- `C6P5` - [Disclosure Policy]()
+- `C6P6` - [Information Logging Policy]()
+
+## [C7 - Crises Operation](categories/crises-operation/)
+
+- `C7P1` - [Remote Access Policy]()
+- `C7P2` - [Disaster Recovery Policy]()
+- `C7P3` - [Pandemic Response Planning Policy]()
+- `C7P4` - [Risk Assessment Policy]()
